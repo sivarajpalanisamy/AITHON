@@ -1,0 +1,24 @@
+# Core UI/web framework
+streamlit
+
+# Audio enhancement API
+cleanvoice
+
+# OpenAI API for Whisper (speech-to-text) and GPT (emotion detection)
+openai
+
+# Audio processing and mixing
+pydub
+
+# For audio waveform and conversion backend
+numpy
+
+# Load environment variables from .env
+python-dotenv
+
+# If audiorecording/streamlit-webrtc used:
+# streamlit-webrtc
+
+# (Optional: Only if you need advanced audio file handling)
+# soundfile
+# scipy
